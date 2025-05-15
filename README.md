@@ -116,3 +116,30 @@ Several visualizations were generated to support the analysis:
 - **Jupyter Notebook** – Interactive analysis environment
 
 ---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Rajender1709Reddy/restaurant-insights-exploration.git
+   cd restaurant-insights-exploration
+
+---
+
+## 📁 Project Structure
+
+restaurant-insights-exploration/
+│
+├── Dataset .csv                         # Original dataset
+├── preprocessed_dataset.csv            # Cleaned dataset
+├── top_cities.png                      # Bar plot of top cities
+├── top_cuisines.png                    # Plot of top cuisines
+├── top_cities_and_cuisines_annotated.png # Annotated insights
+├── restaurant_insights.ipynb           # Jupyter notebook for analysis
+├── README.md                           # Project documentation
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to the open data community for sharing valuable restaurant datasets that make this analysis possible. Special credit to all contributors of Python's data science libraries.
