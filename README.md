@@ -13,3 +13,12 @@ This project presents an end-to-end exploratory data analysis (EDA) of a restaur
 
 ## 📁 Project Structure
 
+Restaurant Insights Exploration/
+│
+├── Dataset .csv # Original raw dataset
+├── preprocessed_dataset.csv # Cleaned dataset after preprocessing
+├── top_cities.png # Visualization of top cities
+├── top_cuisines.png # Visualization of popular cuisines
+├── top_cities_and_cuisines_annotated.png # Annotated insights image
+├── restaurant_insights.ipynb # Jupyter notebook with analysis
+├── README.md # This file
