@@ -23,7 +23,6 @@ To analyze restaurant sales and customer behavior to identify:
 
 
 
-## 📁 Repository Contents
 
 ## 📁 Repository Contents
 
