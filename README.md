@@ -90,4 +90,5 @@ Jupyter
 📬 Contact
 ## 📬 Contact
 
-For feedback, questions, or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajender-mucherla/).
+[Connect with me on LinkedIn](https://www.linkedin.com/in/rajender-mucherla/)
+
