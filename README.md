@@ -24,11 +24,13 @@ To analyze restaurant sales and customer behavior to identify:
 ---
 
 ## 📁 Repository Contents
+
+```text
 restaurant-insights-exploration/
 │
-├── restaurant_EDA.ipynb # Jupyter notebook with step-by-step EDA
-├── data/ # Folder containing the dataset 
-└── README.md # Project documentation (you are here)
+├── restaurant_EDA.ipynb       # Jupyter notebook with step-by-step EDA
+├── data/                      # Folder containing the dataset
+└── README.md                  # Project documentation (you are here)
 
 
 ---
