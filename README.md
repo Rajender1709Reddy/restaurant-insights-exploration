@@ -68,7 +68,7 @@ restaurant-insights-exploration/
 ## 🚀 How to Run
 
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/Rajender1709Reddy/restaurant-insights-exploration.git
 Navigate into any Level folder and open the notebooks using Jupyter.
 
