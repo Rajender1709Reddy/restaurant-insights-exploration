@@ -67,36 +67,34 @@ Open the restaurant_EDA.ipynb file to view and run the analysis.
 
 Or click the Binder badge above to run the notebook directly in your browser with no installation required.
 
-📊 Future Enhancements
+## 📊 Future Enhancements
+
 Here are some potential improvements and extensions I plan to explore:
 
-📈 Sales Forecasting: Use time series models (ARIMA, Prophet) to predict future restaurant revenue.
+- 📈 **Sales Forecasting**: Use time series models (ARIMA, Prophet) to predict future restaurant revenue.
+- 🧠 **Customer Segmentation**: Apply clustering techniques (e.g., K-Means) to identify different customer groups.
+- 📊 **Interactive Dashboards**: Build dashboards using tools like **Tableau**, **Power BI**, or **Plotly Dash** for real-time insights.
+- 📦 **Model Deployment**: Deploy insights and models using **Flask** or **Streamlit** for easy access by stakeholders.
+- 🔄 **Data Automation**: Automate the entire pipeline from data ingestion to report generation using Python scripts and scheduling tools like `cron` or **Airflow**.
 
-🧠 Customer Segmentation: Apply clustering techniques (e.g., K-Means) to identify different customer groups.
+- 
+## 🙋 About Me
 
-📊 Interactive Dashboards: Build dashboards using tools like Tableau, Power BI, or Plotly Dash for real-time insights.
+I'm **Rajender Mucherla**, a data enthusiast with a strong interest in turning raw data into actionable insights.  
+This project is part of my learning journey in **data analysis** and **business intelligence**.
 
-📦 Model Deployment: Deploy insights and models using Flask or Streamlit for easy access by stakeholders.
+### 🚀 My Core Skills
 
-🔄 Data Automation: Automate the entire pipeline from data ingestion to report generation using Python scripts and scheduling tools like cron or Airflow.
-
-🙋 About Me
-I'm Rajender Mucherla, a data enthusiast with a strong interest in turning raw data into actionable insights.
-This project is part of my learning journey in data analysis and business intelligence.
-
-🚀 My Core Skills
-Python for data analysis
-
-Data cleaning and preprocessing
-
-Data visualization and storytelling
-
-Strong problem-solving mindset
+- Python for data analysis
+- Data cleaning and preprocessing
+- Data visualization and storytelling
+- Strong problem-solving mindset
 
 I enjoy working on real-world datasets and continuously improving my skillset through hands-on projects.
 
+---
 
-📫 Let's Connect
-🔗 LinkedIn
+## 📫 Let's Connect
 
-🌐 GitHub
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajender-mucherla/)
+- 🌐 [GitHub](https://github.com/Rajender1709Reddy)
